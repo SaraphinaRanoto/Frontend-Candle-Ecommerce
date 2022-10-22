@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+h1{
+   color: plum;
+   margin: auto;
+   padding: 150px 30px 5px 100px ;
+   width: 100%;
+   font-size: 30px;
+   font-family: 'Calligraffitti', cursive;
+   
+}
+.wrapper{
+    background-image: url(https://wallpaperaccess.com/full/4174398.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:90vh ;
+}
+/* p{
+    color: white;
+    width: 40%;
+    padding: 20px;
+}
+h3{
+    color: white;
+    width: 40%;
+    padding: 5px 20px; 
+} */
+.container{
+    color: rgb(230, 178, 230);
+    width: 40%;
+    padding: 5px 30px; 
+  
+    
+}

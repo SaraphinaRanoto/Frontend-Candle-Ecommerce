@@ -1,0 +1,19 @@
+[{
+    "id": 1,
+    "image": "https://m.media-amazon.com/images/I/31YUzhOR3qL._AC_.jpg",
+    "name": "Lavender Scented Candle Light",
+    "price": "100",
+    "categories": "Scented Candles"
+  }, {
+    "id": 2,
+    "image": "https://m.media-amazon.com/images/I/41REFXGudQL._AC_.jpg",
+    "name": "Black Calming Candle",
+    "price": "100",
+    "categories": "Calming Candles"
+  }, {
+    "id": 3,
+    "image": "https://m.media-amazon.com/images/I/31poJ0SKdAL._AC_.jpg",
+    "name": "Spiritual Light Green Candle",
+    "price": "100",
+    "categories": "Spiritual Candles"
+  }]
